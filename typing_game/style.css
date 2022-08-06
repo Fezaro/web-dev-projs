@@ -1,0 +1,15 @@
+.highlight {
+    background-color: orange;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
+
+h1 {
+    color: springgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    text-align: center;
+}
